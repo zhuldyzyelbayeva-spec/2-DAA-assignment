@@ -193,8 +193,8 @@ The number of comparisons and execution time are recorded separately for inserti
 | 10,000 | 12,160 | 71,696,780 | 10,000 | 50,180,278 |
 | 100,000 | 86,760 | 739,898,980 | 10,000 | 505,028,648 |
 
-![Workload 1 Accesses](results/plots/workload1_accesses.png)
-![Workload 1 Time](results/plots/workload1_time.png)
+![Workload 1 Accesses](3-ASSIGNMENT-DAA/results/plots/workload1_accesses.png)
+![Workload 1 Time](3-ASSIGNMENT-DAA/results/plots/workload1_time.png)
 
 ### Workload 2 — Search
 
@@ -205,8 +205,8 @@ The number of comparisons and execution time are recorded separately for inserti
 | 10,000 | 2,423,880 | 18,749,860 | 7,523,058 | 7,523,058 |
 | 100,000 | 27,072,040 | 147,165,980 | 75,177,945 | 75,177,945 |
 
-![Workload 2 Comparisons](results/plots/workload2_comparisons.png)
-![Workload 2 Time](results/plots/workload2_time.png)
+![Workload 2 Comparisons](3-ASSIGNMENT-DAA/results/plots/workload2_comparisons.png)
+![Workload 2 Time](3-ASSIGNMENT-DAA/results/plots/workload2_time.png)
 
 ### Workload 3 — Insert/Remove
 
@@ -230,8 +230,8 @@ The number of comparisons and execution time are recorded separately for inserti
 
 The detailed movement and access measurements for all insert/remove operations are stored in `results/tables/workload3_insert_remove.csv`.
 
-![Workload 3 Movements](results/plots/workload3_movements.png)
-![Workload 3 Time](results/plots/workload3_time.png)
+![Workload 3 Movements](3-ASSIGNMENT-DAA/results/plots/workload3_movements.png)
+![Workload 3 Time](3-ASSIGNMENT-DAA/results/plots/workload3_time.png)
 
 ### Workload 4 — Min-Heap
 
@@ -242,8 +242,8 @@ The detailed movement and access measurements for all insert/remove operations a
 | 10,000 | 339,020 | 736,260 | 22,753 | 216,531 |
 | 100,000 | 1,609,980 | 8,832,620 | 227,857 | 2,831,426 |
 
-![Workload 4 Comparisons](results/plots/workload4_comparisons.png)
-![Workload 4 Time](results/plots/workload4_time.png)
+![Workload 4 Comparisons](3-ASSIGNMENT-DAA/results/plots/workload4_comparisons.png)
+![Workload 4 Time](3-ASSIGNMENT-DAA/results/plots/workload4_time.png)
 
 ---
 
